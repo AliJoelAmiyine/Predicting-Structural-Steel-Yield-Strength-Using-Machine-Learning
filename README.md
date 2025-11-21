@@ -105,12 +105,3 @@ print("Predicted Yield Strength:", predicted_strength[0], "MPa")
 * RandomForest and XGBoost can **accurately predict steel yield strength**.
 * Exploratory Data Analysis (EDA) is essential for understanding feature-target relationships.
 * Machine learning can **support material selection, quality control, and structural engineering decisions**.
-
----
-
-### Tags
-
-#MachineLearning #MaterialsScience #ConstructionEngineering #SteelDesign #Python #RandomForest #XGBoost #DataScience #AIinConstruction
-
-
-Do you want me to do that?
